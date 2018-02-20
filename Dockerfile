@@ -1,2 +1,2 @@
-FROM jenkinsci/jnlp-slave:lates
+FROM jenkinsci/jnlp-slave:latest
 RUN ECHO 'HELLO WORLD !!!'

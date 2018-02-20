@@ -1,2 +1,2 @@
 FROM jenkinsci/jnlp-slave:latest
-RUN ECHO 'HELLO WORLD !!!'
+RUN echo 'HELLO WORLD !!!'
